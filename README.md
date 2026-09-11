@@ -190,7 +190,7 @@ GenTwin is a **group project** led by **Uttam Maurya**, along with the contribut
 
 🔗 [Live App](https://gentwin-uttam-maurya.streamlit.app/)
 
-> Add the rest of the team's names here, e.g.:
+> Team Members:-
 > - Subodh Kumar Agrahari
 > - Upendra Singh
 > - Vanshita Agrawal
