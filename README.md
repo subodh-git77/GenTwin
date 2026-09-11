@@ -113,7 +113,7 @@ GenTwin-main/
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/GenTwin.git
+git clone https://github.com/subodh-git77/GenTwin.git
 cd GenTwin
 pip install -r requirements.txt
 ```
