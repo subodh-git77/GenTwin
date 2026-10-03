@@ -2,7 +2,7 @@
 
 **GenTwin** is an interactive Streamlit dashboard that combines **generative deep learning** with a **SimPy-based digital twin simulation** to detect, generate, and visualize cyberattacks on a smart water treatment plant. It's built around the SWaT (Secure Water Treatment) industrial control system dataset and demonstrates how anomaly-detection models and synthetic-data generators can work together to build a real-time security "command center" for critical infrastructure.
 
-🔗 **Live demo:** [gentwin-uttam-maurya.streamlit.app](https://gentwin-uttam-maurya.streamlit.app/)
+🔗 **Live demo:** [gentwingit-e7i4kvwfv33mvkkxpwgw4j.streamlit.app/](https://gentwingit-e7i4kvwfv33mvkkxpwgw4j.streamlit.app/)
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.56-red)
