@@ -188,7 +188,7 @@ This project is open source. Add your preferred license (e.g., MIT) in a `LICENS
 
 GenTwin is a **group project** led by **Uttam Maurya**, along with the contributing team members.
 
-🔗 [Live App](https://gentwin-uttam-maurya.streamlit.app/)
+🔗 [Live App](https://gentwingit-e7i4kvwfv33mvkkxpwgw4j.streamlit.app/)
 
 > Team Members:-
 > - Subodh Kumar Agrahari
